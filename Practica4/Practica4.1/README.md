@@ -1,7 +1,7 @@
 Punto 1: Implementación de la MEF Anti-rebote en main.c
 
     Crear un nuevo proyecto como copia del proyecto realizado para la práctica 3.
-    Implementar una MEF anti-rebote que permita leer el estado del pulsador de la placa NUCLEO-F429ZI y generar acciones ante un flanco descendente o ascendente, según el siguiente diagrama:
+    Implementar una MEF anti-rebote que permita leer el estado del pulsador de la placa NUCLEO-F429ZI y generar acciones ante un flanco descendente o ascendente, según el diagrama analizado en clases:
 
 MEF Diagram
 
