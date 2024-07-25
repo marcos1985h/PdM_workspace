@@ -12,5 +12,3 @@ MEF Diagram
     void debounceFSM_update();  // debe leer las entradas, resolver la lógica de transición de estados y actualizar las salidas
     void buttonPressed();       // debe invertir el estado del LED1
     void buttonReleased();      // debe invertir el estado del LED3
-
-Puedes encontrar el código y los detalles de la implementación en este enlace.
